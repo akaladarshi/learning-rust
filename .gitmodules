@@ -1,3 +1,6 @@
 [submodule "http-server-rust"]
 	path = http-server-rust
 	url = git@github.com:akaladarshi/http-server-rust.git
+[submodule "counting-contracts"]
+	path = counting-contracts
+	url = git@github.com:akaladarshi/counting-contracts.git
